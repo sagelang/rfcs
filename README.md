@@ -22,9 +22,12 @@ This repository contains RFCs (Request for Comments) and design documents for th
 | [RFC-0013](rfcs/RFC-0013-standard-library.md) | Standard Library | Draft |
 | [RFC-0014](rfcs/RFC-0014-lsp-support.md) | LSP Support | Implemented |
 
-## Vision
+## Specs
 
-See [specs/VISION.md](specs/VISION.md) for the long-term roadmap.
+| Document | Description |
+|----------|-------------|
+| [VISION.md](specs/VISION.md) | Long-term vision and direction |
+| [roadmap-v1.md](specs/roadmap-v1.md) | v1.0 Production Readiness Specification |
 
 ## Contributing
 
