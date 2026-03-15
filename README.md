@@ -19,7 +19,7 @@ This repository contains RFCs (Request for Comments) and design documents for th
 | [RFC-0010](rfcs/RFC-0010-maps-tuples-result.md) | Maps, Tuples, Result | Implemented |
 | [RFC-0011](rfcs/RFC-0011-tool-support.md) | Tool Support | Implemented |
 | [RFC-0012](rfcs/RFC-0012-testing-framework.md) | Testing Framework | Implemented |
-| [RFC-0013](rfcs/RFC-0013-standard-library.md) | Standard Library | Draft |
+| [RFC-0013](rfcs/RFC-0013-standard-library.md) | Standard Library | Implemented |
 | [RFC-0014](rfcs/RFC-0014-lsp-support.md) | LSP Support | Implemented |
 
 ## Specs
