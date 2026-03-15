@@ -28,6 +28,7 @@ This repository contains RFCs (Request for Comments) and design documents for th
 |----------|-------------|
 | [VISION.md](specs/VISION.md) | Long-term vision and direction |
 | [roadmap-v1.md](specs/roadmap-v1.md) | v1.0 Production Readiness Specification |
+| [roadmap-v2.md](specs/roadmap-v2.md) | v2.0 The Steward Architecture (builds on v1.0) |
 
 ## Contributing
 
