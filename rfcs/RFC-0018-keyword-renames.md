@@ -1,6 +1,6 @@
 # RFC-0018: Keyword Renames (Divine, Oracle, Summon, Yield)
 
-- **Status:** Draft
+- **Status:** Implemented
 - **Created:** 2026-03-16
 - **Author:** Pete Pavlovski
 - **Amends:** RFC-0005 (User-Defined Types), RFC-0006 (Message Passing)
