@@ -1,6 +1,6 @@
 # RFC-0019: Syntax Highlighting Improvements
 
-- **Status:** Draft
+- **Status:** Implemented
 - **Created:** 2026-03-16
 - **Author:** Pete Pavlovski
 - **Affects:** tree-sitter-sage, sage-vscode, sage-zed

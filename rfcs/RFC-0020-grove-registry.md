@@ -1,6 +1,6 @@
 # RFC-0020: Grove Registry and Semantic Versioning
 
-- **Status:** Draft
+- **Status:** Suspended
 - **Created:** 2026-03-16
 - **Author:** Pete Pavlovski
 - **Amends:** RFC-0008 (Package Manager)

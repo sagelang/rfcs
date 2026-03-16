@@ -25,8 +25,8 @@ This repository contains RFCs (Request for Comments) and design documents for th
 | [RFC-0016](rfcs/RFC-0016-grove-manifest.md) | Grove Manifest Files | Implemented |
 | [RFC-0017](rfcs/RFC-0017-directory-naming.md) | Directory Naming (Hearth & Grove) | Implemented |
 | [RFC-0018](rfcs/RFC-0018-keyword-renames.md) | Keyword Renames (Divine, Oracle, Summon, Yield) | Implemented |
-| [RFC-0019](rfcs/RFC-0019-syntax-highlighting.md) | Syntax Highlighting | Draft |
-| [RFC-0020](rfcs/RFC-0020-grove-registry.md) | Grove Registry and Semantic Versioning | Draft |
+| [RFC-0019](rfcs/RFC-0019-syntax-highlighting.md) | Syntax Highlighting | Implemented |
+| [RFC-0020](rfcs/RFC-0020-grove-registry.md) | Grove Registry and Semantic Versioning | Suspended |
 
 ## Specs
 
