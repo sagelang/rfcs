@@ -1419,4 +1419,24 @@ The following are explicitly deferred:
 
 ---
 
+## 14. Implementation Notes (2026-03-16)
+
+The following items from this roadmap have been **deferred to v2.0** based on implementation review:
+
+| Feature | Original Section | Reason for Deferral |
+|---------|------------------|---------------------|
+| **MCP protocol client** | 6.3 | Significant protocol work; Http tool covers immediate needs |
+| **Built-in tools: FileSystem, Stdin, Env, Clock** | 6.5 | Can be added incrementally; Http is sufficient for v1.0 |
+| **`sage tools` CLI commands** | 6.3 | Depends on MCP integration |
+| **LSP: hover, go-to-definition, autocomplete, code actions** | 9.1 | Diagnostics-only is viable for v1.0; IDE smarts are v2.0 |
+| **VS Code extension publication** | 9.1 | Requires LSP feature completeness |
+| **`sage check --json`** | 9.4 | Nice-to-have for CI; not blocking |
+
+The following are being implemented for v1.0:
+- `sage trace` subcommands (pretty, summary, filter, infer, cost)
+- `mock_tool` syntax for test blocks
+- Local path dependencies (`path = "..."` in sage.toml)
+
+---
+
 *Ward has been patient. v1.0 is what he's been waiting for.*
