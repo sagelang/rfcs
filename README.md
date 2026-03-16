@@ -21,6 +21,8 @@ This repository contains RFCs (Request for Comments) and design documents for th
 | [RFC-0012](rfcs/RFC-0012-testing-framework.md) | Testing Framework | Implemented |
 | [RFC-0013](rfcs/RFC-0013-standard-library.md) | Standard Library | Implemented |
 | [RFC-0014](rfcs/RFC-0014-lsp-support.md) | LSP Support | Implemented |
+| [RFC-0015](rfcs/RFC-0015-generics.md) | Generics | Implemented |
+| [RFC-0016](rfcs/RFC-0016-grove-manifest.md) | Grove Manifest Files | Implemented |
 
 ## Specs
 

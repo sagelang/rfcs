@@ -1,6 +1,6 @@
 # RFC-0016: Grove Manifest Files
 
-- **Status:** Draft
+- **Status:** Implemented
 - **Created:** 2026-03-16
 - **Author:** Pete Pavlovski
 - **Amends:** RFC-0008 (Package Manager)
