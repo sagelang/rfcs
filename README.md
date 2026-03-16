@@ -23,6 +23,8 @@ This repository contains RFCs (Request for Comments) and design documents for th
 | [RFC-0014](rfcs/RFC-0014-lsp-support.md) | LSP Support | Implemented |
 | [RFC-0015](rfcs/RFC-0015-generics.md) | Generics | Implemented |
 | [RFC-0016](rfcs/RFC-0016-grove-manifest.md) | Grove Manifest Files | Implemented |
+| [RFC-0017](rfcs/RFC-0017-directory-naming.md) | Directory Naming (Hearth & Grove) | Implemented |
+| [RFC-0020](rfcs/RFC-0020-grove-registry.md) | Grove Registry and Semantic Versioning | Draft |
 
 ## Specs
 
