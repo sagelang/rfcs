@@ -2017,15 +2017,16 @@ A typical v1.x program becomes a v2.0 steward program in three steps:
 
 ### Phase 2 — Core v2.0 (12–16 weeks)
 
-- [ ] Tool declarations and `sage-tools` crate (4 weeks)
-  - `Database`, `Http`, `FileSystem`, `Shell` implementations
-  - `uses` clause parsing and capability checking
-  - `sage.toml` tool configuration
-- [ ] Persistent beliefs and `sage-persistence` crate (4 weeks)
-  - `@persistent` annotation
-  - SQLite and Postgres backends
-  - WAL-based checkpoint protocol
-  - `on waking` lifecycle hook
+- [x] Tool declarations and `sage-tools` crate (4 weeks) ✓ COMPLETE
+  - `Database`, `Http`, `FileSystem`, `Shell` implementations ✓
+  - `uses` clause parsing and capability checking ✓
+  - `grove.toml` tool configuration ✓
+- [x] Persistent beliefs and `sage-persistence` crate (4 weeks) ✓ COMPLETE
+  - `@persistent` annotation ✓
+  - SQLite and file backends ✓ (Postgres stub)
+  - `Persisted<T>` wrapper with auto-checkpoint on set ✓
+  - `on waking` lifecycle hook ✓
+  - Codegen for checkpoint store + Persisted fields ✓
 - [ ] Supervision trees and `sage-supervisor` crate (3 weeks)
   - `supervisor` declaration
   - `OneForOne`, `OneForAll`, `RestForOne` strategies
@@ -2056,8 +2057,8 @@ A typical v1.x program becomes a v2.0 steward program in three steps:
   - `span` blocks
   - Automatic runtime events
   - OTLP export
-- [ ] Full lifecycle hooks (1 week)
-  - `on pause`, `on resume`
+- [x] Full lifecycle hooks (1 week) ✓ COMPLETE
+  - `on waking`, `on pause`, `on resume`, `on resting` ✓
 - [ ] `sage test` integration with tools and persistence (2 weeks)
   - Mock tool support in `_test.sg` files
   - In-memory persistence backend for tests
