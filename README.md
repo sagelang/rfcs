@@ -28,6 +28,7 @@ This repository contains RFCs (Request for Comments) and design documents for th
 | [RFC-0019](rfcs/RFC-0019-syntax-highlighting.md) | Syntax Highlighting | Implemented |
 | [RFC-0020](rfcs/RFC-0020-grove-registry.md) | Grove Registry and Semantic Versioning | Suspended |
 | [RFC-0021](rfcs/RFC-0021-v1-readiness.md) | v1.0 Readiness Checklist | Draft |
+| [RFC-0022](rfcs/RFC-0022-walter-in-sage.md) | Walter: A Victorian Discord Bot in Sage | Draft |
 
 ## Specs
 
